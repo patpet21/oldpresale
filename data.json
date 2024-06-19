@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Presale Contract",
+      "value": "0x7351c0afEB5F80594b32042feFCe904ef4e25fE2"
+    },
+    {
+      "id": 2,
+      "name": "Rate in Base Mainnet",
+      "value": "300000"
+    },
+    {
+      "id": 3,
+      "name": "Title",
+      "value": "MetaLand Presale"
+    },
+    {
+      "id": 4,
+      "name": "Description",
+      "value": "MLMP is the native token that powers the thriving ecosystem of 0xFactory. MLMP plays a pivotal role in facilitating and enhancing the functionality of our platform, enabling users to fully engage with the innovative features and services we offer."
+    },
+    {
+      "id": 5,
+      "name": "Token Name",
+      "value": "ZeroX Factory"
+    },
+    {
+      "id": 6,
+      "name": "Token Contract",
+      "value": "0x0ec822e4BB92e611A790Bc9fC501E0310AC7aFBa"
+    },
+    {
+      "id": 7,
+      "name": "Token Symbol",
+      "value": "ZXF"
+    },
+    {
+      "id": 8,
+      "name": "Token Decimal",
+      "value": "18"
+    },
+    {
+      "id": 9,
+      "name": "Token Supply",
+      "value": "1000000000"
+    },
+    {
+      "id": 10,
+      "name": "Tokens For Presale",
+      "value": "300000000"
+    },
+    {
+      "id": 11,
+      "name": "Presale Start Time",
+      "value": "2024.06.19 15:00 (UTC)"
+    },
+    {
+      "id": 12,
+      "name": "Presale End Time",
+      "value": "2024.08.01 15:00 (UTC)"
+    },
+    {
+      "id": 13,
+      "name": "Affiliate Commission %",
+      "value": "7"
+    },
+    {
+      "id": 14,
+      "name": "Owner Wallet",
+      "value": "0x0BF4E0f390b515f7403b06837F92Ef4b8b013d6C"
+    }
+    
+  ]
+  
